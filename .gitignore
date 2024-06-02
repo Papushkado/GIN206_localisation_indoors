@@ -1,0 +1,6 @@
+# LaTex
+rapport/rapport.*
+rapport/_minted-rapport
+!rapport/rapport.tex
+!rapport/rapport.bib
+!rapport/rapport.pdf
